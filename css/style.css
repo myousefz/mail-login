@@ -1,0 +1,11 @@
+.btn-lg{
+    --bs-btn-padding-y: 1.5rem;
+--bs-btn-padding-x: 4.5rem;
+  --bs-btn-font-size: 1rem;
+  --bs-btn-border-radius:0;
+}
+
+
+.btn-primary{
+--bs-btn-hover-bg: #b1bbc7;
+}
