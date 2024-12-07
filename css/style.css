@@ -1,11 +1,37 @@
-.btn-lg{
-    --bs-btn-padding-y: 1.5rem;
---bs-btn-padding-x: 4.5rem;
-  --bs-btn-font-size: 1rem;
-  --bs-btn-border-radius:0;
+body{
+  background-color: #24353f;
+  
+}
+/* nav{background-color:transparent !important;} */
+
+.crtona{
+  box-shadow: 7px 7px 20px  rgb(18,17,17);
+  }
+
+  h1{color: #17a2b8;}
+
+  input{
+    background-color: transparent !important;
+    color: aliceblue !important;
+  }
+input::placeholder{
+  color: aliceblue !important;
+
 }
 
+  button{
+    color: #17a2b8 !important;
+    background-color: transparent !important;
+    border-color: #17a2b8 !important;
 
-.btn-primary{
---bs-btn-hover-bg: #b1bbc7;
+  }
+button:hover{
+  color: aliceblue !important;
+  background-color: #17a2b8 !important;
+  border-color: #17a2b8 !important;
+}
+
+a:hover{ 
+  text-decoration-line: underline !important;
+
 }
